@@ -1,0 +1,56 @@
+body{
+    background-color:darkgoldenrod;
+}
+h2{
+    padding: 5px;
+    float: left;
+    margin-left:30px;
+    margin-top: 0px;
+    margin-bottom:opx;
+}
+
+div{
+    color:white;
+    background-color: darkgoldenrod;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+ul li {
+    list-style-type: none; 
+}
+.hoo{
+    margin-left: 180px;
+}
+.menu{
+    color: white;
+   display:grid;
+  float: left;
+  margin-right:0px;
+margin-left:10px;
+padding:7px;
+
+}
+
+div form{
+    background-color: white;
+    color: black;
+}
+.lolo,.lilo,.loli{
+  float: left;
+  margin-right:10px;
+margin-left:10px;
+padding:0px;
+}
+button{
+    background-color: darkgoldenrod;
+    color: white;
+    border:none;
+}
+form,h5{
+    padding-left: 90px;
+    padding-right:90px;
+   
+}
